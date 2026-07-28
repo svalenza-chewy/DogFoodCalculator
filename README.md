@@ -8,6 +8,10 @@ After GitHub Actions finishes deploying Pages from `main`, the prototype is avai
 
 https://svalenza-chewy.github.io/DogFoodCalculator/
 
+Confluence-ready roadmap copy page:
+
+https://svalenza-chewy.github.io/DogFoodCalculator/confluence/chewy-dog-food-finder-18-month-cx-seo-roadmap.html
+
 ## Run Locally
 
 ```bash
